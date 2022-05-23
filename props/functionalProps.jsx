@@ -8,7 +8,7 @@ const Display = () => {
     )
 }
 const Welcome = () => {
-    const greetings = 'Good after noon folks, I have a meeting @12.30 lets take break by then.'
+    const greetings = 'Good Morning All Welcome!!!'
     return( 
         <div className="name">
             <h2>{greetings}</h2>
