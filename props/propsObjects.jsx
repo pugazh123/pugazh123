@@ -6,9 +6,9 @@ import React from "react";
                                 <Drink statement={{ 
                                     filter:'GoodTaste', 
                                     normal:'Strong',
-                                    firstname:"Sachin",
-                                    lastname:"Anil",
-                                    city:"Bangalore",
+                                    firstname:"Pugazh",
+                                    lastname:"Bharathi",
+                                    city:"",
                                     training:"React"
                                 }} />
                             </div>
